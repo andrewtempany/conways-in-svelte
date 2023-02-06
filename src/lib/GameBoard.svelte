@@ -41,7 +41,7 @@
 
 <div class="header">
     <div class="typewriter">
-        <h1 >Conway's Game of Life</h1>
+        <h1 class="title">Conway's Game of Life</h1>
     </div>
     <div class="controls">
         <div class="sliders">
@@ -194,7 +194,7 @@
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   /*letter-spacing: .02em; /* Adjust as needed */
   animation: 
-    typing 2.5s steps(18, end),
+    typing 2.5s steps(22, end),
     blink-caret .75s step-end infinite;
 }
 
