@@ -11,7 +11,7 @@
 <style>
   .main {
     display: grid;
-    grid-template-rows: 100px calc(100vh - 100px);
+    grid-template-rows: 200px calc(100vh - 200px);
     grid-template-columns: 100vw;
     grid-template-areas:
       "controls"
